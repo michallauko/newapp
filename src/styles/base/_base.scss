@@ -1,0 +1,13 @@
+* {
+    color: $base-color;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigation {
+    .navlink {
+        margin-right: 3vw;
+    }
+    .is-active {
+        font-weight: bold;
+    }
+}
