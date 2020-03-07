@@ -10,7 +10,7 @@ const Header = () => (
 
 const Navigation = () => (
     <div className="navigation">
-        <NavLink activeClassName="is-active" className="navlink" to="/" exact={true}>Home</NavLink>
+        <NavLink activeClassName="is-active" className="navlink" to="/" exact={true}>Home!!!!!!!!!!!</NavLink>
         <NavLink activeClassName="is-active" className="navlink" to="/add">Add expense!</NavLink>
         <NavLink activeClassName="is-active" className="navlink" to="/help">Help</NavLink>
     </div>
